@@ -26,3 +26,9 @@ El codigo así
 # Codigo en python
 print( "Hola Mundo")
 ```
+  ## Tabla
+  | Cod | Descripción |
+  | --- | --- |
+  | 1 | git |
+  | 2 | docker |
+  | 3 | Odoo |
