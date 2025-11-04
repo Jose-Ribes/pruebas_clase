@@ -18,6 +18,8 @@ Ahora lista
 - Item 2
   - Item 21
   - Item 22
+- Item 3
+- Item 4
 
 ## Codigo
 
@@ -26,6 +28,7 @@ El codigo así
 # Codigo en python
 print( "Hola Mundo")
 ```
+Tambien puedo formatear una `palabra` o `grupo de palabras solas`
   ## Tabla
   | Cod | Descripción |
   | --- | --- |
